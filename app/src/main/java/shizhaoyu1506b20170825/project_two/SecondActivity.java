@@ -16,5 +16,6 @@ public class SecondActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         Log.e("","");
+        //周振辉
     }
 }
